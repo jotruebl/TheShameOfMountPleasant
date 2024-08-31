@@ -1,0 +1,14 @@
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
+plugins:
+  - jekyll-remote-theme # add this if you don't have any plugins listed already
+  - jekyll-include-cache
+# Site settings
+title: Mount Pleasant's Disgrace
+description: >- # this means to ignore newlines until "baseurl:"
+  Cataloging the Destruction of a Community
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://www.mountpleasantdisgrace.com/" # the base hostname & protocol for your site
+
+# Build settings
+markdown: kramdown
+
