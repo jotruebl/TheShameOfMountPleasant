@@ -262,7 +262,7 @@ burden she could not afford.
 </p>
 
 Facing these overwhelming challenges, the tenant withdrew the 
-dispute on August 31, 2024. 
+dispute on August 30, 2024. 
 
 On the same day that the tenant withdrew her dispute, the
 landlord listed another unit in the same complex on Craigslist. This raised
