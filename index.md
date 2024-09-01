@@ -6,6 +6,8 @@ title: The Disgrace of Mount Pleasant
 subtitle:  Elderly Tenant Forced Out After 26 Years by Landlord Previously Labeled Community "Steward"
 date: August 31, 2024
 show_date: true
+share: true
+comments: true
 ---
 
 *Author's Note: All names and personal information have been redacted to protect
