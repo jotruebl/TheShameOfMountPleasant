@@ -1,0 +1,17 @@
+<div class="container mt-5 mb-5">
+  <div class="row">
+      <div class="col-md-6 offset-md-3">
+          <h4>{{ include.title }}</h4>
+          <ul class="timeline">
+              {% for item in include.news_items %}
+              <li>
+                  <b  class="float-right">{{ item.date }}</b>
+                  <u target="_blank" href="{{ item.url }}">{{ item.title }}</u>
+
+                  <p>{{ item.description | markdownify }}</p>
+              </li>
+              {% endfor %}
+          </ul>
+      </div>
+  </div>
+</div>
