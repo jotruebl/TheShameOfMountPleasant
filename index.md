@@ -18,7 +18,7 @@ the privacy of the parties involved.*
 recently forced out of her long-time home under circumstances that have left
 many in the community outraged. The landlord, who has publicly been called a
 "steward" of the community,
-allegedly harassed and pressured the elderly tenant after the refused a
+allegedly harassed and pressured the elderly tenant after she refused a
 voluntary rent increase, ultimately forcing her to
 leave in what members of the community are calling "an absolute disgrace."
 
@@ -81,7 +81,7 @@ with bold headlines about rising rents on a desk just outside the tenant's door,
 with highlighted sections emphasizing the gap between her rent and current
 market rates. The first newspaper clipping appeared shortly after the tenant's
 refusal to voluntarily increase her rent. The article's subtitle read
-"Two-bedroom apartments near $3,000 a month", closely echoeing a section in the
+"Two-bedroom apartments near $3,000 a month", closely echoing a section in the
 landlord's request for rent increase, which read "The average rent for
 a one-bedroom apartment is now $1,828.00 while the average rent for a
 two-bedroom is $2,916.00."
@@ -101,7 +101,7 @@ two-bedroom is $2,916.00."
   </div>
 </div>
 
-The tenant alleges the newspaper postings were part of a tactic to pressure her to acceping a higher rent or else move out to
+The tenant alleges the newspaper postings were part of a tactic to pressure her into accepting a higher rent or else move out to
 allow the landlord to collect the higher rent he believes he is owed. The landlord did not deny posting the clippings in the evidence they submitted
 for the dispute resolution hearing, stating "As the owner of the building I can display
 any legal document I choose in the public areas the same way I display the
@@ -137,7 +137,7 @@ around and said, ‘If you don’t tone it down, I’ll ask you to leave.’</p>
 In one encounter, the daughter reportedly told the tenant, "I will do
 anything to protect my family." Another journal entry from March of 2021 recounts how the
 daughter expressed her displeasure over the
-tenant's refusal to pay the voluntary rent increase. The entry writes
+tenant's refusal to pay the voluntary rent increase. The entry states
 "Then she approached me and said something like when they asked
 people for a voluntary rent increase, everybody did except for [REDACTED] and
 me. (Are they treating [REDACTED] badly?)" 
@@ -194,7 +194,7 @@ these either of these allegations in his evidence.
 ### Neighbours Begin to Notice
 
 The situation reached a point where even neighbors began to notice. The tenant's
-upstairs neighbor submitted a signed tesimony describing how, on separate
+upstairs neighbor submitted a signed testimony describing how, on separate
 occasions, the landlord and his brother expressed disdain for the tenant. The
 statement recounts how on October 31, 2022 the landlord's brother allegedly remarked,
 "We like you guys, but please just be aware it's an old wooden building and the
@@ -204,7 +204,7 @@ neighbor]." On June 22, 2024, the brother reportedly stated, "I don't give a shi
 her." 
 
 The landlord did not dispute the June 22nd quote in the submitted evidence
-but denied the October 31 remark, however incorrectly stating that the witntess
+but denied the October 31 remark, however incorrectly stating that the witness
 claimed it took place at the same time as the June 22nd instance, raising
 question as to the validity of this denial.
 
@@ -212,7 +212,7 @@ question as to the validity of this denial.
 .img-50}](../assets/img_redacted/evidence_11.png)  
 <figcaption></figcaption>
 
-On June 31, 2024, one week after being quoted as saying "I don't give a shit about her", the
+On June 30, 2024, one week after being quoted as saying "I don't give a shit about her", the
 landlord and his brother served the tenant with an eviction notice. The landlord claimed that the unit was
 needed for a family member—a rationale that the tenant and her supporters immediately
 questioned.
@@ -256,11 +256,11 @@ burden she could not afford.
 
 <div style="position: relative; font-family: 'Georgia', serif; font-size: 1.2em; line-height: 1.6; color: #fff; padding: 20px 40px; border-left: 4px solid #800080; margin: 20px 0;">
     <span style="position: absolute; left: 10px; top: 10px; font-size: 4em; color: #800080; line-height: 0.5;">&ldquo;</span>
-    <p style="display: inline; margin: 0;">She (the tenant) can roll around in the grave for all I care.</p>
+    <p style="display: inline; margin: 0;">She [the tenant] can roll around in the grave for all I care.</p>
     <span style="position: absolute; right: 10px; bottom: 10px; font-size: 4em; color: #FF4500; line-height: 0.5;">&rdquo;</span>
 </div>
 <p style="font-family: 'Georgia', serif; font-size: 1em; color: #fff; text-align: right; margin-top: 5px;">
-    <em>- Landlord's brother according to witness statement </em>
+    <em>- Landlord's brother according to a witness statement </em>
 </p>
 
 Facing these overwhelming challenges, the tenant withdrew the 
