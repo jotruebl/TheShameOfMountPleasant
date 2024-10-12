@@ -43,7 +43,7 @@ For over 26 years, the tenant lived in her Mount Pleasant home, enjoying
 stability and a strong sense of community. In 2019, the landlord asked all
 tenants in the building to voluntarily accept a $445 rent increase—an amount
 well above the legal limit but technically allowed since it required tenant
-approval. The tenant, whose husband had recently passed away, declined the
+approval. The tenant, whose late husband was in hospice at the time of the request, declined the
 increase due to her fixed income and the emotional and financial strain of her
 loss.
 
