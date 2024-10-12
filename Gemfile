@@ -15,4 +15,5 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem 'webrick', '~> 1.8'
+  gem 'faraday-retry'
 end

@@ -10,12 +10,20 @@ share: true
 comments: true
 ---
 
-*Update 10/12/2024: The original article stated the tenant's husband was in hospice at the time of the
+***Update 10/12/2024 1:14pm PDT:** There has been some confusion regarding the landlord's stated
+reason for the eviction. The reason for this is because of imprecise language
+used by the landlord at various times. In the official eviction notice, the landlord stated
+landlord use for "a person owning voting shares in the family corporation."
+However, in the evidence submitted to the dispute resolution hearing and in
+his statements to [Global News](https://globalnews.ca/news/10808686/bc-woman-evicted-declining-voluntary-rent-increase/), the landlord has said the unit was needed for
+his brother (who is a sharehold).*
+
+***Update 10/12/2024 1:00pm PDT:** The original article stated the tenant's husband was in hospice at the time of the
 rent increase request. The article has been corrected to show that the tenant's
 husband was a couple weeks away from undergoing medical assistance in dying
 (MAID).*
 
-*Author's Note: All names and personal information have been redacted to protect
+*Original Author's Note: All names and personal information have been redacted to protect
 the privacy of the parties involved.*
 
 
