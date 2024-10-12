@@ -10,6 +10,11 @@ share: true
 comments: true
 ---
 
+*Update 10/12/2024: The original article stated the tenant's husband was in hospice at the time of the
+rent increase request. The article has been corrected to show that the tenant's
+husband was a couple weeks away from undergoing medical assistance in dying
+(MAID).*
+
 *Author's Note: All names and personal information have been redacted to protect
 the privacy of the parties involved.*
 
@@ -43,7 +48,8 @@ For over 26 years, the tenant lived in her Mount Pleasant home, enjoying
 stability and a strong sense of community. In 2019, the landlord asked all
 tenants in the building to voluntarily accept a $445 rent increase—an amount
 well above the legal limit but technically allowed since it required tenant
-approval. The tenant, whose late husband was in hospice at the time of the request, declined the
+approval. The tenant, whose now-late husband was preparing to undergo medical
+assistance in dying (MAID) time of the request, declined the
 increase due to her fixed income and the emotional and financial strain of her
 loss.
 
